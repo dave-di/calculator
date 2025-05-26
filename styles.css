@@ -36,6 +36,12 @@ body {
     box-sizing: border-box;
 }
 
+#calculator {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    cursor: grab;
+}
 /* Button grid */
 #keys {
     display: grid;
